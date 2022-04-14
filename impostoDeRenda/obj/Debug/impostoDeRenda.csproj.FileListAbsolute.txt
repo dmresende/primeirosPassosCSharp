@@ -1,0 +1,8 @@
+C:\Users\dougl\source\repos\AprendendoCSarp\impostoDeRenda\bin\Debug\impostoDeRenda.exe.config
+C:\Users\dougl\source\repos\AprendendoCSarp\impostoDeRenda\bin\Debug\impostoDeRenda.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\impostoDeRenda\bin\Debug\impostoDeRenda.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\impostoDeRenda\obj\Debug\impostoDeRenda.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\impostoDeRenda\obj\Debug\impostoDeRenda.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\impostoDeRenda\obj\Debug\impostoDeRenda.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\impostoDeRenda\obj\Debug\impostoDeRenda.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\impostoDeRenda\obj\Debug\impostoDeRenda.pdb

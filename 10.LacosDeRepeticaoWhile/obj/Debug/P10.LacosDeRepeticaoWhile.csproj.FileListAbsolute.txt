@@ -1,0 +1,8 @@
+C:\Users\dougl\source\repos\AprendendoCSarp\10.LacosDeRepeticaoWhile\bin\Debug\10.LacosDeRepeticaoWhile.exe.config
+C:\Users\dougl\source\repos\AprendendoCSarp\10.LacosDeRepeticaoWhile\bin\Debug\10.LacosDeRepeticaoWhile.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\10.LacosDeRepeticaoWhile\bin\Debug\10.LacosDeRepeticaoWhile.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\10.LacosDeRepeticaoWhile\obj\Debug\P10.LacosDeRepeticaoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\10.LacosDeRepeticaoWhile\obj\Debug\P10.LacosDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\10.LacosDeRepeticaoWhile\obj\Debug\10.LacosDeRepeticaoWhile.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\10.LacosDeRepeticaoWhile\obj\Debug\10.LacosDeRepeticaoWhile.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\10.LacosDeRepeticaoWhile\obj\Debug\P10.LacosDeRepeticaoWhile.csproj.AssemblyReference.cache

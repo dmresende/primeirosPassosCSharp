@@ -1,0 +1,8 @@
+C:\Users\dougl\source\repos\AprendendoCSarp\P12.EncadeadoForInvestimentos\bin\Debug\P12.EncadeadoForInvestimentos.exe.config
+C:\Users\dougl\source\repos\AprendendoCSarp\P12.EncadeadoForInvestimentos\bin\Debug\P12.EncadeadoForInvestimentos.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\P12.EncadeadoForInvestimentos\bin\Debug\P12.EncadeadoForInvestimentos.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\P12.EncadeadoForInvestimentos\obj\Debug\P12.EncadeadoForInvestimentos.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\P12.EncadeadoForInvestimentos\obj\Debug\P12.EncadeadoForInvestimentos.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\P12.EncadeadoForInvestimentos\obj\Debug\P12.EncadeadoForInvestimentos.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\P12.EncadeadoForInvestimentos\obj\Debug\P12.EncadeadoForInvestimentos.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\P12.EncadeadoForInvestimentos\obj\Debug\P12.EncadeadoForInvestimentos.pdb

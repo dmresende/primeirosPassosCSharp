@@ -1,0 +1,8 @@
+C:\Users\dougl\source\repos\AprendendoCSarp\1.PrimeiroProjeto\bin\Debug\1.PrimeiroProjeto.exe.config
+C:\Users\dougl\source\repos\AprendendoCSarp\1.PrimeiroProjeto\bin\Debug\1.PrimeiroProjeto.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\1.PrimeiroProjeto\bin\Debug\1.PrimeiroProjeto.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\1.PrimeiroProjeto\obj\Debug\1.PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\1.PrimeiroProjeto\obj\Debug\1.PrimeiroProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\1.PrimeiroProjeto\obj\Debug\1.PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\1.PrimeiroProjeto\obj\Debug\1.PrimeiroProjeto.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\1.PrimeiroProjeto\obj\Debug\1.PrimeiroProjeto.pdb

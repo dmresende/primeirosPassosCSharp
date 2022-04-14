@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31bf3944-2e79-4e50-be7a-dda069d4e3f0": {
+      "ProjectGuid": "31bf3944-2e79-4e50-be7a-dda069d4e3f0",
+      "DisplayName": "1.PrimeiroProjeto",
+      "ColorIndex": 0
+    },
+    "8f6b9796-402b-4c51-b18c-ed995c5fa95e": {
+      "ProjectGuid": "8f6b9796-402b-4c51-b18c-ed995c5fa95e",
+      "DisplayName": "2.CriandoVariaveis",
+      "ColorIndex": 1
+    },
+    "0df49bb7-fe3e-4241-9a7c-be7ca1142756": {
+      "ProjectGuid": "0df49bb7-fe3e-4241-9a7c-be7ca1142756",
+      "DisplayName": "Exer.CriandoVariaveis",
+      "ColorIndex": 2
+    },
+    "9ae0e8dc-b1c2-4387-94a4-a45b99a44822": {
+      "ProjectGuid": "9ae0e8dc-b1c2-4387-94a4-a45b99a44822",
+      "DisplayName": "3.CriandoVariaveisPontoFlutuante",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "4b3bb971-ad6f-4a6a-b0a7-b01989f2131c": {
+      "ProjectGuid": "4b3bb971-ad6f-4a6a-b0a7-b01989f2131c",
+      "DisplayName": "Exer.TestaPontoFlutuante",
+      "ColorIndex": 4
+    },
+    "ca67332f-3caf-4133-94cd-11831498b318": {
+      "ProjectGuid": "ca67332f-3caf-4133-94cd-11831498b318",
+      "DisplayName": "4.ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 5
+    },
+    "689828fd-d790-4a8e-9045-571108390bee": {
+      "ProjectGuid": "689828fd-d790-4a8e-9045-571108390bee",
+      "DisplayName": "Exer.ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 6
+    },
+    "3a8209ca-d775-45a5-a17f-a27d15cb5645": {
+      "ProjectGuid": "3a8209ca-d775-45a5-a17f-a27d15cb5645",
+      "DisplayName": "5.CaracteresETextos",
+      "ColorIndex": 7
+    },
+    "c363634d-3974-4a16-ac1c-a40bcd26a0f8": {
+      "ProjectGuid": "c363634d-3974-4a16-ac1c-a40bcd26a0f8",
+      "DisplayName": "Exer.CaracteresETextos",
+      "ColorIndex": 8
+    },
+    "11c7e72e-14fe-4946-9333-371f4e4a8f5a": {
+      "ProjectGuid": "11c7e72e-14fe-4946-9333-371f4e4a8f5a",
+      "DisplayName": "6.AtribuicoesDeVariaveis",
+      "ColorIndex": 9
+    },
+    "4b6da59f-90d2-4006-9b24-a5c8d9fa24ef": {
+      "ProjectGuid": "4b6da59f-90d2-4006-9b24-a5c8d9fa24ef",
+      "DisplayName": "7.Condicionais",
+      "ColorIndex": 10
+    },
+    "13ca78ae-4b14-4ff9-9557-93c9d38e4564": {
+      "ProjectGuid": "13ca78ae-4b14-4ff9-9557-93c9d38e4564",
+      "DisplayName": "Exer.Condicional",
+      "ColorIndex": 11
+    },
+    "4841511a-3376-4edd-9521-d6272af9632f": {
+      "ProjectGuid": "4841511a-3376-4edd-9521-d6272af9632f",
+      "DisplayName": "8.Condicionais2",
+      "ColorIndex": 12
+    },
+    "58e125c2-201c-4975-b02b-83e40418ae02": {
+      "ProjectGuid": "58e125c2-201c-4975-b02b-83e40418ae02",
+      "DisplayName": "9.Escopo",
+      "ColorIndex": 13
+    },
+    "6123a29e-bc9b-4aa7-9670-2e4890ea860a": {
+      "ProjectGuid": "6123a29e-bc9b-4aa7-9670-2e4890ea860a",
+      "DisplayName": "Exer.impostoDeRenda",
+      "ColorIndex": 14
+    },
+    "c74ff8c7-40aa-4d3a-aa78-adebc583fed4": {
+      "ProjectGuid": "c74ff8c7-40aa-4d3a-aa78-adebc583fed4",
+      "DisplayName": "Exer.AprendendoSwitch",
+      "ColorIndex": 15
+    },
+    "37e66924-d158-494d-b22b-7ebde50d0503": {
+      "ProjectGuid": "37e66924-d158-494d-b22b-7ebde50d0503",
+      "DisplayName": "P10.LacosDeRepeticaoWhile",
+      "ColorIndex": 0
+    },
+    "152f86a9-b6a0-4d1c-abb9-4600201ce56b": {
+      "ProjectGuid": "152f86a9-b6a0-4d1c-abb9-4600201ce56b",
+      "DisplayName": "P11.WhilePoupanca",
+      "ColorIndex": 1
+    },
+    "677cdc9f-76b9-409b-91ef-aa0ec5578aa7": {
+      "ProjectGuid": "677cdc9f-76b9-409b-91ef-aa0ec5578aa7",
+      "DisplayName": "P12.EncadeadoForInvestimentos",
+      "ColorIndex": 2
+    },
+    "c845548b-1892-4976-b836-bd3b256f6e60": {
+      "ProjectGuid": "c845548b-1892-4976-b836-bd3b256f6e60",
+      "DisplayName": "P13.ForEncadeado",
+      "ColorIndex": 3
+    },
+    "50e8a469-68b2-43ca-a1cb-91a44943e500": {
+      "ProjectGuid": "50e8a469-68b2-43ca-a1cb-91a44943e500",
+      "DisplayName": "Testebug",
+      "ColorIndex": 4
+    },
+    "0157d31d-26f2-4e03-9dd6-29c79e267675": {
+      "ProjectGuid": "0157d31d-26f2-4e03-9dd6-29c79e267675",
+      "DisplayName": "Exer.TabuadaLacosRepeticao",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

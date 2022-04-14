@@ -1,0 +1,8 @@
+C:\Users\dougl\source\repos\AprendendoCSarp\Condicional\obj\Debug\Condicional.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\Condicional\obj\Debug\Condicional.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\Condicional\bin\Debug\Condicional.exe.config
+C:\Users\dougl\source\repos\AprendendoCSarp\Condicional\bin\Debug\Condicional.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\Condicional\bin\Debug\Condicional.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\Condicional\obj\Debug\Condicional.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\Condicional\obj\Debug\Condicional.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\Condicional\obj\Debug\Condicional.csproj.AssemblyReference.cache

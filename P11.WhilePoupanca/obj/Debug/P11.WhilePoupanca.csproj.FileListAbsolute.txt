@@ -1,0 +1,7 @@
+C:\Users\dougl\source\repos\AprendendoCSarp\P11.WhilePoupanca\bin\Debug\P11.WhilePoupanca.exe.config
+C:\Users\dougl\source\repos\AprendendoCSarp\P11.WhilePoupanca\bin\Debug\P11.WhilePoupanca.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\P11.WhilePoupanca\bin\Debug\P11.WhilePoupanca.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\P11.WhilePoupanca\obj\Debug\P11.WhilePoupanca.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\P11.WhilePoupanca\obj\Debug\P11.WhilePoupanca.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\P11.WhilePoupanca\obj\Debug\P11.WhilePoupanca.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\P11.WhilePoupanca\obj\Debug\P11.WhilePoupanca.pdb

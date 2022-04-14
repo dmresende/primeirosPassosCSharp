@@ -1,0 +1,7 @@
+C:\Users\dougl\source\repos\AprendendoCSarp\Exer.TabuadaLacosRepeticao\bin\Debug\Exer.TabuadaLacosRepeticao.exe.config
+C:\Users\dougl\source\repos\AprendendoCSarp\Exer.TabuadaLacosRepeticao\bin\Debug\Exer.TabuadaLacosRepeticao.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\Exer.TabuadaLacosRepeticao\bin\Debug\Exer.TabuadaLacosRepeticao.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\Exer.TabuadaLacosRepeticao\obj\Debug\Exer.TabuadaLacosRepeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\Exer.TabuadaLacosRepeticao\obj\Debug\Exer.TabuadaLacosRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\Exer.TabuadaLacosRepeticao\obj\Debug\Exer.TabuadaLacosRepeticao.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\Exer.TabuadaLacosRepeticao\obj\Debug\Exer.TabuadaLacosRepeticao.pdb

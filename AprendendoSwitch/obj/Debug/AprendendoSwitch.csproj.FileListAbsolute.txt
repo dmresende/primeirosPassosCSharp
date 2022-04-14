@@ -1,0 +1,8 @@
+C:\Users\dougl\source\repos\AprendendoCSarp\AprendendoSwitch\bin\Debug\AprendendoSwitch.exe.config
+C:\Users\dougl\source\repos\AprendendoCSarp\AprendendoSwitch\bin\Debug\AprendendoSwitch.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\AprendendoSwitch\bin\Debug\AprendendoSwitch.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\AprendendoSwitch\obj\Debug\AprendendoSwitch.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\AprendendoSwitch\obj\Debug\AprendendoSwitch.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\AprendendoSwitch\obj\Debug\AprendendoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\AprendendoSwitch\obj\Debug\AprendendoSwitch.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\AprendendoSwitch\obj\Debug\AprendendoSwitch.pdb

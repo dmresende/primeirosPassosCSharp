@@ -1,0 +1,7 @@
+C:\Users\dougl\source\repos\AprendendoCSarp\CaracteresETextos\bin\Debug\CaracteresETextos.exe.config
+C:\Users\dougl\source\repos\AprendendoCSarp\CaracteresETextos\bin\Debug\CaracteresETextos.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\CaracteresETextos\bin\Debug\CaracteresETextos.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\CaracteresETextos\obj\Debug\CaracteresETextos.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\CaracteresETextos\obj\Debug\CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\CaracteresETextos\obj\Debug\CaracteresETextos.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\CaracteresETextos\obj\Debug\CaracteresETextos.pdb

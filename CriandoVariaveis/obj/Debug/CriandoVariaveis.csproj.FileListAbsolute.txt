@@ -1,0 +1,7 @@
+C:\Users\dougl\source\repos\AprendendoCSarp\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe.config
+C:\Users\dougl\source\repos\AprendendoCSarp\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\CriandoVariaveis\bin\Debug\CriandoVariaveis.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\CriandoVariaveis\obj\Debug\CriandoVariaveis.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\CriandoVariaveis\obj\Debug\CriandoVariaveis.pdb

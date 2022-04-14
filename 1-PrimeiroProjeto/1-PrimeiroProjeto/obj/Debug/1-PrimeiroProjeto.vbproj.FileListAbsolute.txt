@@ -1,0 +1,13 @@
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.xml
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.vbproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\_1_PrimeiroProjeto.Resources.resources
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.vbproj.GenerateResource.cache
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.vbproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.xml
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb
+C:\Users\dougl\source\repos\1-PrimeiroProjeto\1-PrimeiroProjeto\obj\Debug\_1_PrimeiroProjeto.Frm_TelaPrincipal.resources

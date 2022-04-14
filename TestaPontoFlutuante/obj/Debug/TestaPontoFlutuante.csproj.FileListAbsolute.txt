@@ -1,0 +1,8 @@
+C:\Users\dougl\source\repos\AprendendoCSarp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\AprendendoCSarp\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe.config
+C:\Users\dougl\source\repos\AprendendoCSarp\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.pdb
+C:\Users\dougl\source\repos\AprendendoCSarp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.exe
+C:\Users\dougl\source\repos\AprendendoCSarp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.pdb
